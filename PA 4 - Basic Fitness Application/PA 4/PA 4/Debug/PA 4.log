@@ -1,0 +1,3 @@
+﻿C:\Program Files (x86)\MSBuild\Microsoft.Cpp\v4.0\V140\Microsoft.CppBuild.targets(392,5): warning MSB8028: The intermediate directory (Debug\) contains files shared from another project (PA 4.vcxproj).  This can lead to incorrect clean and rebuild behavior.
+  PA 4.vcxproj -> C:\Users\KRad\Documents\WSU\Education\2nd Year Spring\CptS 122\Programming Assignments\PA 4 - Basic Fitness Application\PA 4\Debug\PA 4 - Basic Fitness Application.exe
+  PA 4.vcxproj -> C:\Users\KRad\Documents\WSU\Education\2nd Year Spring\CptS 122\Programming Assignments\PA 4 - Basic Fitness Application\PA 4\Debug\PA 4 - Basic Fitness Application.pdb (Full PDB)
